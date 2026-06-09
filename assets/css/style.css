@@ -1,0 +1,28 @@
+
+body{
+    background:#f5f5f5;
+}
+
+.container{
+    background:#ffffff;
+    padding:40px;
+    border-radius:10px;
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+p{
+    line-height:28px;
+}
+
+img{
+    width:100%;
+    border-radius:12px;
+}
+
+.btn{
+    text-align:left;
+}
+
